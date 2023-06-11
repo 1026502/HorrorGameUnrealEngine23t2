@@ -1048,3 +1048,265 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.11-10.10.50:896][523]LogRendererCore: Warning: Query 'EndOfFrameUpdates' not ready.
 [2023.06.11-10.11.35:601][845]LogShaderCompilers: Display: Worker (2/10) finished batch of 5 jobs in 98.382s, FVolumetricCloudShadowPS [WorkerTime=84.403s], FRenderVolumetricCloudRenderViewCS [WorkerTime=7.507s], FRenderVolumetricCloudRenderViewCS [WorkerTime=4.858s], TBasePassPSFSelfShadowedTranslucencyPolicySkylight [WorkerTime=0.762s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=0.760s]
 [2023.06.11-10.12.12:037][955]LogDerivedDataCache: C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.089 and deleted 0 files with total size 0 MiB. Scanned 17607 files in 17027 folders with total size 2917 MiB.
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: URL: C:\Users\New\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: URL: C:\Users\New\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.06.11-10.48.19:156][522]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.06.11-10.48.21:281][773]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2023.06.11-10.48.21:281][773]LogWindows: Warning: URL: D:/UE_5.1/Engine/Binaries/Win64/ version
+[2023.06.11-10.48.25:370][786]LogAutomationController: Ignoring very large delta of 3.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.06.11-10.49.00:110][937]LogAutomationController: Ignoring very large delta of 33.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.06.11-10.49.13:485][239]LogAutomationController: Ignoring very large delta of 2.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.06.11-10.49.20:391][ 56]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2023.06.11-10.49.20:391][ 56]LogWindows: Warning: URL: D:/UE_5.1/Engine/Binaries/Win64/ version
+[2023.06.11-10.49.20:392][ 56]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2023.06.11-10.55.53:782][338]LogSlate: Window 'Source Control Login' being destroyed
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: ================================================
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Total job queries 162, among them cache hits 3 (1.85%)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Tracking 153 distinct input hashes that result in 117 distinct outputs (76.47%)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: RAM used: 0.51 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Shaders Compiled: 153
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Jobs assigned 153, completed 153 (100.00%)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Average time worker was idle: 62.85 s
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Time job spent in pending queue: average 8.13 s, longest 26.05 s
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Job execution time: average 10.30 s, max 98.38 s
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Job life time (pending + execution): average 18.44 s, max 109.46
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 110.75 s
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Jobs were issued in 111 batches (only local compilation was used), average 1.38 jobs/batch
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Average processing rate: 1.38 jobs/sec
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Total thread time: 414.07 s
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Total thread preprocess time: 9.23 s
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Percentage time preprocessing: 2.23%
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Effective parallelization: 3.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display:                                     FVolumetricCloudShadowPS (compiled    1 times, average 84.40 sec, max 84.40 sec, min 84.40 sec)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 8.34 sec, max 15.93 sec, min 3.63 sec)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 7.64 sec, max 7.64 sec, min 7.64 sec)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 7.44 sec, max 7.44 sec, min 7.44 sec)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 7.38 sec, max 7.38 sec, min 7.38 sec)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 34.26% of total time (compiled   17 times, average 8.34 sec, max 15.93 sec, min 3.63 sec)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display:                                     FVolumetricCloudShadowPS - 20.38% of total time (compiled    1 times, average 84.40 sec, max 84.40 sec, min 84.40 sec)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.56% of total time (compiled   10 times, average 2.71 sec, max 4.71 sec, min 0.67 sec)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 4.06% of total time (compiled    8 times, average 2.10 sec, max 3.52 sec, min 0.45 sec)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 3.28% of total time (compiled   10 times, average 1.36 sec, max 2.21 sec, min 0.62 sec)
+[2023.06.11-11.03.54:284][396]LogShaderCompilers: Display: ================================================
+[2023.06.11-11.04.11:065][296]Cmd: DELETE
+[2023.06.11-11.04.11:065][296]Cmd: ACTOR DELETE
+[2023.06.11-11.04.11:081][296]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.04.11:091][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.06.11-11.04.11:091][296]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.06.11-11.04.14:134][617]Cmd: DELETE
+[2023.06.11-11.04.14:134][617]Cmd: ACTOR DELETE
+[2023.06.11-11.04.14:146][617]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.04.14:153][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.06.11-11.04.14:154][617]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.04.14:455][646]Cmd: DELETE
+[2023.06.11-11.04.14:455][646]Cmd: ACTOR DELETE
+[2023.06.11-11.04.14:467][646]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.04.14:473][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.11-11.04.14:474][646]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.04.40:160][462]Cmd: DELETE
+[2023.06.11-11.04.40:160][462]Cmd: ACTOR DELETE
+[2023.06.11-11.04.40:173][462]LogEditorActor: Deleted Actor: SpotLight
+[2023.06.11-11.04.40:179][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.06.11-11.04.40:179][462]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.04.41:480][610]Cmd: DELETE
+[2023.06.11-11.04.41:480][610]Cmd: ACTOR DELETE
+[2023.06.11-11.04.41:492][610]LogEditorActor: Deleted Actor: SpotLight
+[2023.06.11-11.04.41:498][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.06.11-11.04.41:499][610]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.04.45:092][996]Cmd: DELETE
+[2023.06.11-11.04.45:092][996]Cmd: ACTOR DELETE
+[2023.06.11-11.04.45:105][996]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.04.45:111][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.11-11.04.45:112][996]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.06.11-11.04.47:469][227]Cmd: DELETE
+[2023.06.11-11.04.47:469][227]Cmd: ACTOR DELETE
+[2023.06.11-11.04.47:481][227]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.04.47:487][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.06.11-11.04.47:488][227]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.04.55:902][227]Cmd: DELETE
+[2023.06.11-11.04.55:902][227]Cmd: ACTOR DELETE
+[2023.06.11-11.04.55:913][227]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.04.55:919][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.04.55:921][227]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.04.58:981][590]Cmd: DELETE
+[2023.06.11-11.04.58:981][590]Cmd: ACTOR DELETE
+[2023.06.11-11.04.58:993][590]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.04.58:999][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.04.59:000][590]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.05.00:823][804]Cmd: DELETE
+[2023.06.11-11.05.00:823][804]Cmd: ACTOR DELETE
+[2023.06.11-11.05.00:835][804]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.00:842][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.06.11-11.05.00:843][804]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.06.11-11.05.09:107][757]Cmd: DELETE
+[2023.06.11-11.05.09:107][757]Cmd: ACTOR DELETE
+[2023.06.11-11.05.09:118][757]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.09:125][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.05.09:126][757]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.05.14:133][301]Cmd: DELETE
+[2023.06.11-11.05.14:133][301]Cmd: ACTOR DELETE
+[2023.06.11-11.05.14:144][301]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.14:152][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.06.11-11.05.14:153][301]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.06.11-11.05.18:316][793]Cmd: DELETE
+[2023.06.11-11.05.18:316][793]Cmd: ACTOR DELETE
+[2023.06.11-11.05.18:328][793]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.18:334][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.05.18:335][793]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.05.19:687][950]Cmd: DELETE
+[2023.06.11-11.05.19:687][950]Cmd: ACTOR DELETE
+[2023.06.11-11.05.19:699][950]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.19:706][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.11-11.05.19:708][950]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.05.22:450][269]Cmd: DELETE
+[2023.06.11-11.05.22:450][269]Cmd: ACTOR DELETE
+[2023.06.11-11.05.22:462][269]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.22:468][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.05.22:469][269]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.05.23:791][411]Cmd: DELETE
+[2023.06.11-11.05.23:791][411]Cmd: ACTOR DELETE
+[2023.06.11-11.05.23:803][411]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.23:809][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.05.23:810][411]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.06.11-11.05.28:629][968]Cmd: DELETE
+[2023.06.11-11.05.28:629][968]Cmd: ACTOR DELETE
+[2023.06.11-11.05.28:640][968]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.28:647][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.11-11.05.28:648][968]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.05.32:163][357]Cmd: DELETE
+[2023.06.11-11.05.32:163][357]Cmd: ACTOR DELETE
+[2023.06.11-11.05.32:175][357]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.32:180][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.05.32:181][357]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.06.11-11.05.36:513][857]Cmd: DELETE
+[2023.06.11-11.05.36:513][857]Cmd: ACTOR DELETE
+[2023.06.11-11.05.36:524][857]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.36:529][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.05.36:531][857]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.05.40:797][349]Cmd: DELETE
+[2023.06.11-11.05.40:797][349]Cmd: ACTOR DELETE
+[2023.06.11-11.05.40:808][349]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.40:816][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.11-11.05.40:817][349]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.06.11-11.05.43:214][633]Cmd: DELETE
+[2023.06.11-11.05.43:214][633]Cmd: ACTOR DELETE
+[2023.06.11-11.05.43:226][633]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.43:232][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.05.43:234][633]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.06.11-11.05.47:049][ 71]Cmd: DELETE
+[2023.06.11-11.05.47:049][ 71]Cmd: ACTOR DELETE
+[2023.06.11-11.05.47:060][ 71]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.47:066][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.05.47:068][ 71]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.05.55:042][997]Cmd: DELETE
+[2023.06.11-11.05.55:042][997]Cmd: ACTOR DELETE
+[2023.06.11-11.05.55:055][997]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.55:060][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.05.55:061][997]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.05.56:380][151]Cmd: DELETE
+[2023.06.11-11.05.56:380][151]Cmd: ACTOR DELETE
+[2023.06.11-11.05.56:392][151]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.05.56:399][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.11-11.05.56:400][151]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.06.00:307][611]Cmd: DELETE
+[2023.06.11-11.06.00:307][611]Cmd: ACTOR DELETE
+[2023.06.11-11.06.00:318][611]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.00:325][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.06.11-11.06.00:326][611]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.06.02:258][838]Cmd: DELETE
+[2023.06.11-11.06.02:258][838]Cmd: ACTOR DELETE
+[2023.06.11-11.06.02:270][838]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.02:276][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.11-11.06.02:277][838]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.06.03:006][919]Cmd: DELETE
+[2023.06.11-11.06.03:006][919]Cmd: ACTOR DELETE
+[2023.06.11-11.06.03:018][919]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.03:025][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.06.11-11.06.03:026][919]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.06.06:317][270]Cmd: DELETE
+[2023.06.11-11.06.06:317][270]Cmd: ACTOR DELETE
+[2023.06.11-11.06.06:329][270]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.06:334][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.06.06:336][270]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.06.06:816][321]Cmd: DELETE
+[2023.06.11-11.06.06:816][321]Cmd: ACTOR DELETE
+[2023.06.11-11.06.06:827][321]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.06:833][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.06.06:834][321]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.06.08:790][551]Cmd: DELETE
+[2023.06.11-11.06.08:790][551]Cmd: ACTOR DELETE
+[2023.06.11-11.06.08:802][551]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.08:807][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.06.08:809][551]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.06.11-11.06.11:764][883]Cmd: DELETE
+[2023.06.11-11.06.11:764][883]Cmd: ACTOR DELETE
+[2023.06.11-11.06.11:764][883]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2023.06.11-11.06.11:775][883]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.11:782][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.06.11:783][883]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.06.16:571][423]Cmd: DELETE
+[2023.06.11-11.06.16:571][423]Cmd: ACTOR DELETE
+[2023.06.11-11.06.16:583][423]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.16:591][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.11-11.06.16:591][423]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.06.19:084][718]Cmd: DELETE
+[2023.06.11-11.06.19:084][718]Cmd: ACTOR DELETE
+[2023.06.11-11.06.19:097][718]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.19:103][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.06.19:104][718]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.06.11-11.06.22:776][131]Cmd: DELETE
+[2023.06.11-11.06.22:776][131]Cmd: ACTOR DELETE
+[2023.06.11-11.06.22:788][131]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.22:794][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.06.22:796][131]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.06.11-11.06.25:481][421]Cmd: DELETE
+[2023.06.11-11.06.25:481][421]Cmd: ACTOR DELETE
+[2023.06.11-11.06.25:493][421]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.25:502][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.11-11.06.25:503][421]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.06.11-11.06.32:786][250]Cmd: DELETE
+[2023.06.11-11.06.32:786][250]Cmd: ACTOR DELETE
+[2023.06.11-11.06.32:796][250]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.32:803][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.06.32:805][250]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.06.53:822][527]Cmd: DELETE
+[2023.06.11-11.06.53:822][527]Cmd: ACTOR DELETE
+[2023.06.11-11.06.53:833][527]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.53:838][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.06.53:839][527]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.06.11-11.06.57:709][964]Cmd: DELETE
+[2023.06.11-11.06.57:709][964]Cmd: ACTOR DELETE
+[2023.06.11-11.06.57:720][964]LogEditorActor: Deleted Actor: PointLight
+[2023.06.11-11.06.57:726][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.11-11.06.57:727][964]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.06.58:753][ 81]Cmd: DELETE
+[2023.06.11-11.06.58:753][ 81]Cmd: ACTOR DELETE
+[2023.06.11-11.06.58:765][ 81]LogEditorActor: Deleted Actor: SpotLight
+[2023.06.11-11.06.58:771][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.11-11.06.58:772][ 81]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.11-11.07.12:394][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-11.07.12:427][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.06.11-11.07.12:432][691]LogPackageLocalizationCache: Processed 40 localized package path(s) for 1 prioritized culture(s) in 0.004466 seconds
+[2023.06.11-11.07.12:491][691]LogSerialization: UsePackageTrailer: 'true'
+[2023.06.11-11.07.12:620][691]LogSavePackage: Moving output files for package: /Game/SICKA_mansion/Maps/MAP_Mansion
+[2023.06.11-11.07.12:620][691]LogSavePackage: Moving '../../../../UE_Builds/MANSION/HorrorGameUnrealEngine23t2/MANSIONGITFOLDER/HORRORMANSION/Saved/MAP_Mansion2FBFF634470E32395D42939618534392.tmp' to '../../../../UE_Builds/MANSION/HorrorGameUnrealEngine23t2/MANSIONGITFOLDER/HORRORMANSION/Content/SICKA_mansion/Maps/MAP_Mansion.umap'
+[2023.06.11-11.07.12:629][691]LogFileHelpers: No new changes to save!
+[2023.06.11-11.07.12:629][691]LogFileHelpers: Saving map 'MAP_Mansion' took 0.210
+[2023.06.11-11.07.12:633][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms
+[2023.06.11-11.07.12:639][691]AssetCheck: New page: Asset Save: MAP_Mansion
+[2023.06.11-11.07.12:639][691]LogContentValidation: Display: Validating /Script/Engine.World /Game/SICKA_mansion/Maps/MAP_Mansion.MAP_Mansion
