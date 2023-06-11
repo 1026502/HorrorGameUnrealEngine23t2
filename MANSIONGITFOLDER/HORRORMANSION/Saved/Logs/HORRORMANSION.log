@@ -1310,3 +1310,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.11-11.07.12:633][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms
 [2023.06.11-11.07.12:639][691]AssetCheck: New page: Asset Save: MAP_Mansion
 [2023.06.11-11.07.12:639][691]LogContentValidation: Display: Validating /Script/Engine.World /Game/SICKA_mansion/Maps/MAP_Mansion.MAP_Mansion
+[2023.06.11-11.12.15:958][ 33]LogDerivedDataCache: C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.083 and deleted 0 files with total size 0 MiB. Scanned 17631 files in 17050 folders with total size 2917 MiB.
